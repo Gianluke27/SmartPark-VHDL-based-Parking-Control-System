@@ -1,0 +1,40 @@
+#:C9     
+#Xilinx FPGA Editor Command Log File
+#Editor Version:
+#:V   NT M2.1 P.20131013
+#Current Working Directory:
+#:D   D:\ProgettoTD_Traccia9_Canzolino_Gianluca
+#Date/Time:
+#:T   Mon Feb 03 15:36:57 2020
+#------------------------------
+	#Reading Parcheggio_map.ncd...
+	#Loading device for application Rf_Device from file '6slx9.nph' in environment D:\Xilinx\14.7\ISE_DS\ISE\.
+	#   "Parcheggio" is an NCD, version 3.2, device xc6slx9, package tqg144, speed -2
+	#Design creation date: 2020.02.03.14.12.11
+	#Building chip graphics...
+	#Loading speed info...
+	#1
+setattr main edit-mode no-logic-changes
+	#2
+unselect -all
+	#3
+unselect -all
+	#4
+unselect -all
+	#5
+unselect -all
+	#6
+select wire 'OUTBOUND(-303,2416)'
+	#node = OUTBOUND(-303,2416)
+	#7
+unselect -all
+	#8
+unselect -all
+	#9
+select wire 'PINFEED(516,1805)'
+	#node = PINFEED(516,1805)
+	#10
+unselect -all
+	#11
+select site 'SLICE_X11Y33'
+	#site "SLICE_X11Y33",  type = SLICEX  (RPM grid X35Y132)

@@ -1,0 +1,3 @@
+vhdtdtfi -lib work contatore_auto.vhd -prj ProgettoTD_Traccia9_Canzolino_Gianluca -o contatore_auto.spl -module contatore_auto -template D:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 contatore_auto.spl D:/ProgettoTD_Traccia9_Canzolino_Gianluca/contatore_auto.sym 
+vhdtdtfi -prj ProgettoTD_Traccia9_Canzolino_Gianluca -o D:/ProgettoTD_Traccia9_Canzolino_Gianluca/contatore_auto.tfi -module contatore_auto -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work contatore_auto.vhd 

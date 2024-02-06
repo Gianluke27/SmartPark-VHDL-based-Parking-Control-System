@@ -1,0 +1,17 @@
+#:C0     
+#Xilinx FPGA Editor Command Log File
+#Editor Version:
+#:V   NT M2.1 P.20131013
+#Current Working Directory:
+#:D   D:\ProgettoTD_Traccia9_Canzolino_Gianluca
+#Date/Time:
+#:T   Mon Feb 03 15:38:58 2020
+#------------------------------
+	#Reading Parcheggio.ncd...
+	#Loading device for application Rf_Device from file '6slx9.nph' in environment D:\Xilinx\14.7\ISE_DS\ISE\.
+	#   "Parcheggio" is an NCD, version 3.2, device xc6slx9, package tqg144, speed -2
+	#Design creation date: 2020.02.03.14.38.02
+	#Building chip graphics...
+	#Loading speed info...
+	#1
+setattr main edit-mode no-logic-changes

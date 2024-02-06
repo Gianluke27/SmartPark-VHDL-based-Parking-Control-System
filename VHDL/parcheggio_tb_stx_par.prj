@@ -1,0 +1,2 @@
+vhdl isim_temp "netgen/par/Parcheggio_timesim.vhd"
+vhdl isim_temp "parcheggio_tb.vhd"

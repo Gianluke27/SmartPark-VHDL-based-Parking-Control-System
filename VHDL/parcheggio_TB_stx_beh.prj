@@ -1,0 +1,3 @@
+vhdl isim_temp "contatore_auto.vhd"
+vhdl isim_temp "Parcheggio.vhd"
+vhdl isim_temp "parcheggio_tb.vhd"

@@ -1,0 +1,78 @@
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-tqg144-2 Parcheggio.ngc Parcheggio.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Parcheggio_map.ncd Parcheggio.ngd Parcheggio.pcf 
+par -w -intstyle ise -ol high -mt off Parcheggio_map.ncd Parcheggio.ncd Parcheggio.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Parcheggio.twx Parcheggio.ncd -o Parcheggio.twr Parcheggio.pcf 
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-tqg144-2 Parcheggio.ngc Parcheggio.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Parcheggio_map.ncd Parcheggio.ngd Parcheggio.pcf 
+par -w -intstyle ise -ol high -mt off Parcheggio_map.ncd Parcheggio.ncd Parcheggio.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Parcheggio.twx Parcheggio.ncd -o Parcheggio.twr Parcheggio.pcf 
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-tqg144-2 Parcheggio.ngc Parcheggio.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Parcheggio_map.ncd Parcheggio.ngd Parcheggio.pcf 
+par -w -intstyle ise -ol high -mt off Parcheggio_map.ncd Parcheggio.ncd Parcheggio.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Parcheggio.twx Parcheggio.ncd -o Parcheggio.twr Parcheggio.pcf 
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-tqg144-2 Parcheggio.ngc Parcheggio.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Parcheggio_map.ncd Parcheggio.ngd Parcheggio.pcf 
+par -w -intstyle ise -ol high -mt off Parcheggio_map.ncd Parcheggio.ncd Parcheggio.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Parcheggio.twx Parcheggio.ncd -o Parcheggio.twr Parcheggio.pcf 
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-tqg144-2 Parcheggio.ngc Parcheggio.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Parcheggio_map.ncd Parcheggio.ngd Parcheggio.pcf 
+par -w -intstyle ise -ol high -mt off Parcheggio_map.ncd Parcheggio.ncd Parcheggio.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Parcheggio.twx Parcheggio.ncd -o Parcheggio.twr Parcheggio.pcf 
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-tqg144-2 Parcheggio.ngc Parcheggio.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Parcheggio_map.ncd Parcheggio.ngd Parcheggio.pcf 
+par -w -intstyle ise -ol high -mt off Parcheggio_map.ncd Parcheggio.ncd Parcheggio.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Parcheggio.twx Parcheggio.ncd -o Parcheggio.twr Parcheggio.pcf 
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-tqg144-2 Parcheggio.ngc Parcheggio.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Parcheggio_map.ncd Parcheggio.ngd Parcheggio.pcf 
+par -w -intstyle ise -ol high -mt off Parcheggio_map.ncd Parcheggio.ncd Parcheggio.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Parcheggio.twx Parcheggio.ncd -o Parcheggio.twr Parcheggio.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Parcheggio_preroute.twx Parcheggio_map.ncd -o Parcheggio_preroute.twr Parcheggio.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Parcheggio.ucf -p xc6slx9-tqg144-2 Parcheggio.ngc Parcheggio.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Parcheggio_map.ncd Parcheggio.ngd Parcheggio.pcf 
+par -w -intstyle ise -ol high -mt off Parcheggio_map.ncd Parcheggio.ncd Parcheggio.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Parcheggio.twx Parcheggio.ncd -o Parcheggio.twr Parcheggio.pcf -ucf Parcheggio.ucf 
+bitgen -intstyle ise -f Parcheggio.ut Parcheggio.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-tqg144-2 Parcheggio.ngc Parcheggio.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Parcheggio_map.ncd Parcheggio.ngd Parcheggio.pcf 
+par -w -intstyle ise -ol high -mt off Parcheggio_map.ncd Parcheggio.ncd Parcheggio.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Parcheggio.twx Parcheggio.ncd -o Parcheggio.twr Parcheggio.pcf 
+ibiswriter -intstyle ise -vccaux 2.5 -truncate 20 Parcheggio.ncd Parcheggio.ibs 
+netgen -intstyle ise -s 2  -pcf Parcheggio.pcf -sdf_anno true -sdf_path "netgen/par" -insert_glbl true -insert_pp_buffers true -w -dir netgen/par -ofmt verilog -sim Parcheggio.ncd Parcheggio_timesim.v 
+netgen -intstyle ise -s 2  -pcf Parcheggio.pcf -rpw 100 -tpw 0 -ar Structure -tm Parcheggio -insert_pp_buffers true -w -dir netgen/par -ofmt vhdl -sim Parcheggio.ncd Parcheggio_timesim.vhd 
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-tqg144-2 Parcheggio.ngc Parcheggio.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Parcheggio_map.ncd Parcheggio.ngd Parcheggio.pcf 
+par -w -intstyle ise -ol high -mt off Parcheggio_map.ncd Parcheggio.ncd Parcheggio.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Parcheggio.twx Parcheggio.ncd -o Parcheggio.twr Parcheggio.pcf 
+netgen -intstyle ise -s 2  -pcf Parcheggio.pcf -rpw 100 -tpw 0 -ar Structure -tm Parcheggio -insert_pp_buffers true -w -dir netgen/par -ofmt vhdl -sim Parcheggio.ncd Parcheggio_timesim.vhd 
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-tqg144-2 Parcheggio.ngc Parcheggio.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Parcheggio_map.ncd Parcheggio.ngd Parcheggio.pcf 
+par -w -intstyle ise -ol high -mt off Parcheggio_map.ncd Parcheggio.ncd Parcheggio.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Parcheggio.twx Parcheggio.ncd -o Parcheggio.twr Parcheggio.pcf 
+netgen -intstyle ise -s 2  -pcf Parcheggio.pcf -rpw 100 -tpw 0 -ar Structure -tm Parcheggio -insert_pp_buffers true -w -dir netgen/par -ofmt vhdl -sim Parcheggio.ncd Parcheggio_timesim.vhd 
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-tqg144-2 Parcheggio.ngc Parcheggio.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Parcheggio_map.ncd Parcheggio.ngd Parcheggio.pcf 
+par -w -intstyle ise -ol high -mt off Parcheggio_map.ncd Parcheggio.ncd Parcheggio.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Parcheggio.twx Parcheggio.ncd -o Parcheggio.twr Parcheggio.pcf 
+netgen -intstyle ise -s 2  -pcf Parcheggio.pcf -rpw 100 -tpw 0 -ar Structure -tm Parcheggio -insert_pp_buffers true -w -dir netgen/par -ofmt vhdl -sim Parcheggio.ncd Parcheggio_timesim.vhd 
+xst -intstyle ise -ifn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.xst" -ofn "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/Parcheggio.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-tqg144-2 Parcheggio.ngc Parcheggio.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Parcheggio_map.ncd Parcheggio.ngd Parcheggio.pcf 
+par -w -intstyle ise -ol high -mt off Parcheggio_map.ncd Parcheggio.ncd Parcheggio.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Parcheggio.twx Parcheggio.ncd -o Parcheggio.twr Parcheggio.pcf 
+netgen -intstyle ise -s 2  -pcf Parcheggio.pcf -rpw 100 -tpw 0 -ar Structure -tm Parcheggio -insert_pp_buffers true -w -dir netgen/par -ofmt vhdl -sim Parcheggio.ncd Parcheggio_timesim.vhd 

@@ -1,0 +1,8 @@
+[Inputs]
+clk
+rst
+incremento
+decremento
+[Outputs]
+libero
+[BiDir]

@@ -1,0 +1,3 @@
+vhdl work "contatore_auto.vhd"
+vhdl work "Parcheggio.vhd"
+vhdl work "parcheggio_tb.vhd"

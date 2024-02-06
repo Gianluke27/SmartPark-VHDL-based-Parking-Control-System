@@ -1,0 +1,2 @@
+# SmartPark VHDL-based Parking Control System
+A VHDL-based parking control system designed for small-scale parking lots with limited capacity. This project implements a straightforward parking management solution featuring vehicle entry and exit control using photocells, accompanied by a semaphore indicating the availability of parking spaces. Additionally, a barrier mechanism facilitates the passage of vehicles both entering and exiting the parking area. SimplePark offers a practical and efficient solution for managing vehicle flow in constrained parking environments

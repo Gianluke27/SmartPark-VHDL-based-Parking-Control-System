@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/parcheggio_tb_isim_par.exe" -prj "D:/ProgettoTD_Traccia9_Canzolino_Gianluca/parcheggio_tb_par.prj" "work.parcheggio_tb" 

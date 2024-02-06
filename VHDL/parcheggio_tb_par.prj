@@ -1,0 +1,2 @@
+vhdl work "netgen/par/Parcheggio_timesim.vhd"
+vhdl work "parcheggio_tb.vhd"

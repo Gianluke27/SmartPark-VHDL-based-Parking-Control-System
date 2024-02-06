@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+contatore_auto instance_name (
+    .clk(clk), 
+    .rst(rst), 
+    .incremento(incremento), 
+    .decremento(decremento), 
+    .libero(libero)
+    );
+
+

@@ -1,0 +1,32 @@
+Command line:
+   parcheggio_tb_isim_par.exe
+     -simmode  gui
+     -sdfmax  /uut/=netgen/par/Parcheggio_timesim.sdf
+     -sdfroot  /uut
+     -simrunnum  0
+     -socket  7449
+
+Tue Feb 04 18:29:58 2020
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5164.48 Meg
+
+ Total Signals          : 771
+ Total Nets             : 488
+ Total Signal Drivers   : 437
+ Total Blocks           : 150
+ Total Primitive Blocks : 84
+ Total Processes        : 432
+ Total Traceable Variables  : 1046
+ Total Scalar Nets and Variables : 9158
+Total Line Count : 1331
+Total Line Count : 1331
+
+ Total Simulation Time: 0.4375 sec
+
+ Current Memory Usage: 5479.05 Meg
+
+Tue Feb 04 18:30:50 2020
+
